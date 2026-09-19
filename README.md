@@ -4,6 +4,15 @@
 
 ---
 
+## 📥 Tải về & Cài đặt (Download & Installation)
+* **Tải bản phát hành:** [RetroReader v1.1 Releases](https://github.com/nn-cuong/RetroReader/releases/tag/v1.1)
+* **Cách cài đặt:**
+  1. Tải file zip `RetroReader.v1.1.zip` từ đường dẫn trên.
+  2. Giải nén và sao chép thư mục `RetroReader` vào thư mục `Apps/` trên thẻ nhớ SD (đường dẫn: `/mnt/SDCARD/Apps/RetroReader`).
+  3. Cắm thẻ nhớ vào máy TrimUI Brick Pro, mở mục **Apps** và khởi chạy **RetroReader**.
+
+---
+
 ## 🌟 Tính năng nổi bật
 
 * **Hỗ trợ các định dạng đọc sách & truyện tranh chuyên nghiệp:**
@@ -18,7 +27,7 @@
 * **Bảng màu 8 chủ đề êm mắt:**
   * Paper (mặc định), Vintage Dark, Warm Night, AMOLED Black, Forest, Coastal Earth, Gruvbox, Nordic Frost.
   * Màu nền ô đang chọn (`sel_bg`) được thiết kế sáng nhẹ hơn nền 1 tông, mang lại cảm giác dễ chịu khi đọc trong đêm.
-* **Popup thoát an toàn:** chống treo máy.
+* **Popup thoát an toàn:** Viền đôi 2px sắc nét, chống treo máy tuyệt đối.
 
 ---
 
