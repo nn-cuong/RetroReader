@@ -7,7 +7,7 @@
 ## 📥 Tải về & Cài đặt (Download & Installation)
 * **Tải bản phát hành:** [RetroReader v1.2 Releases](https://github.com/nn-cuong/RetroReader/releases/tag/v1.2)
 * **Cách cài đặt:**
-  1. Tải file zip `RetroReader.v1.1.zip` từ đường dẫn trên.
+  1. Tải file zip `RetroReader.v1.2.zip` từ đường dẫn trên.
   2. Giải nén và sao chép thư mục `RetroReader` vào thư mục `Apps/` trên thẻ nhớ SD (đường dẫn: `/mnt/SDCARD/Apps/RetroReader`).
   3. Cắm thẻ nhớ vào máy TrimUI Brick Pro, mở mục **Apps** và khởi chạy **RetroReader**.
 
