@@ -18,7 +18,7 @@
 * **Bảng màu 8 chủ đề êm mắt:**
   * Paper (mặc định), Vintage Dark, Warm Night, AMOLED Black, Forest, Coastal Earth, Gruvbox, Nordic Frost.
   * Màu nền ô đang chọn (`sel_bg`) được thiết kế sáng nhẹ hơn nền 1 tông, mang lại cảm giác dễ chịu khi đọc trong đêm.
-* **Popup thoát an toàn:** Viền đôi 2px sắc nét, chống treo máy tuyệt đối.
+* **Popup thoát an toàn:** chống treo máy.
 
 ---
 
