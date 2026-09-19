@@ -58,7 +58,7 @@
 
 ### 3. Khi đọc Sách chữ & Ebook (Flow Text Engine)
 * **DPAD Lên/Xuống hoặc Joystick:** Cuộn dòng đọc mượt mà.
-* **L1 / R1:** Giảm / Tăng kích cỡ chữ trực tiếp.
+* **L1 / R1:** Nhảy trang tiếp theo.
 * **L2:** Mở Mục lục chương (TOC) để nhảy nhanh.
 * **Nút B:** Bật chế độ Flashcard (Cursor mode) để chọn và lưu trích dẫn/từ vựng vào Flashcard.
 * **Nút A:** Bật/Tắt thanh trạng thái (HUD).
