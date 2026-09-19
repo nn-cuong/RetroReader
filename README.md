@@ -1,4 +1,4 @@
-# RetroReader v1.1
+# RetroReader
 
 **RetroReader** là ứng dụng đọc sách và truyện tranh all-in-one cao cấp dành cho máy chơi game cầm tay **TrimUI Brick Pro (TG4040)**, kết hợp trọn vẹn sức mạnh của cả hai ứng dụng đọc sách chữ (**RetroBooks**) và truyện tranh (**RetroComics**).
 
