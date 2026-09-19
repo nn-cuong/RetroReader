@@ -14,10 +14,7 @@
 * **Bộ điều hướng thông minh (Smart Dispatcher):** Tự động nhận diện định dạng tệp để mở đúng trình đọc:
   * File truyện/PDF: Mở **Comic Engine** (lật trang ảnh, phóng to zoom/pan, xoay 4 hướng).
   * File sách chữ/ebook: Mở **Flow Text Engine** (ngắt dòng chữ, đổi cỡ chữ L/R, nhảy mục lục chương TOC).
-* **Thư viện sách đôi (Dual Library View):**
-  * **Chế độ Lưới (Grid View - 3x2):** Hiển thị bìa lớn sắc nét, tên sách/truyện 1 dòng đầy đủ với hiệu ứng cuộn chữ Marquee.
-  * **Chế độ Danh sách (List View - 8 dòng):** Tối ưu cho việc tìm kiếm nhanh danh mục sách.
-  * Chuyển đổi nhanh giữa 2 chế độ bằng **phím B**.
+
 * **Bảng màu 8 chủ đề êm mắt:**
   * Paper (mặc định), Vintage Dark, Warm Night, AMOLED Black, Forest, Coastal Earth, Gruvbox, Nordic Frost.
   * Màu nền ô đang chọn (`sel_bg`) được thiết kế sáng nhẹ hơn nền 1 tông, mang lại cảm giác dễ chịu khi đọc trong đêm.
